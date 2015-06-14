@@ -1,8 +1,8 @@
 # brdb
 BrasilDB
 
-Banco de dados da aplicação BrasilDB(systemcall.info/brdb)
-Desenvolvido em MySQL/MariaDB
+Banco de dados da aplicação BrasilDB(systemcall.info/brdb).
+Desenvolvido em MySQL/MariaDB.
 
 Tabelas:
 
